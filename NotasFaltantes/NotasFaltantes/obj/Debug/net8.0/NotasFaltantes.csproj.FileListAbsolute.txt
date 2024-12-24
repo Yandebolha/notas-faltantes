@@ -1,0 +1,56 @@
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.exe
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.deps.json
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.runtimeconfig.json
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfoInputs.cache
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfo.cs
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\refint\NotasFaltantes.dll
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.genruntimeconfig.cache
+C:\Users\Automatiza\source\repos\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\ref\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.exe
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.deps.json
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.runtimeconfig.json
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfoInputs.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfo.cs
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\refint\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.genruntimeconfig.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes - Copia\NotasFaltantes\obj\Debug\net8.0\ref\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.exe
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.deps.json
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.runtimeconfig.json
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfoInputs.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfo.cs
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\refint\NotasFaltantes.dll
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.pdb
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.genruntimeconfig.cache
+C:\Users\Automatiza\Desktop\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\ref\NotasFaltantes.dll
+C:\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.exe
+C:\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.deps.json
+C:\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.runtimeconfig.json
+C:\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.dll
+C:\NotasFaltantes\NotasFaltantes\bin\Debug\net8.0\NotasFaltantes.pdb
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfoInputs.cache
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.AssemblyInfo.cs
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.csproj.CoreCompileInputs.cache
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.dll
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\refint\NotasFaltantes.dll
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.pdb
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\NotasFaltantes.genruntimeconfig.cache
+C:\NotasFaltantes\NotasFaltantes\obj\Debug\net8.0\ref\NotasFaltantes.dll

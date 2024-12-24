@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotasFaltantes/1.0.0": {
+        "runtime": {
+          "NotasFaltantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotasFaltantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
